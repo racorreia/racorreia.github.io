@@ -13,6 +13,20 @@
     </image>
     
     <item>
+      <title>Hello world!</title>
+      <link>https://racorreia.github.io/post/hello_world/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://racorreia.github.io/post/hello_world/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-my-personal-website&#34;&gt;Welcome to my personal website!&lt;/h1&gt;
+&lt;h2 id=&#34;who-am-i&#34;&gt;Who am I?&lt;/h2&gt;
+&lt;p&gt;I am an enthusiastic conservation researcher working for the preservation of our natural world!&lt;/p&gt;
+&lt;h2 id=&#34;why-a-personal-website&#34;&gt;Why a personal website?&lt;/h2&gt;
+&lt;p&gt;It has been a while since I have been looking for a space where I can share some of my (mis)adventures as a conservation scientist working with large data sets and digital data sources to generate insights that can contribute biodiversity conservation. Here, I hope to share of my (wild) thoughts at the intersection between the natural and the digital worlds. Keep an eye on this space and feel free to follow me on 
+&lt;a href=&#34;https://twitter.com/rahcorreia85&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Twitter&lt;/a&gt; to stay up to date with the latest news!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An example preprint / working paper</title>
       <link>https://racorreia.github.io/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
