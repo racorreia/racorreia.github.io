@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francisco Moreira | Ricardo Correia</title>
+    <link>https://racorreia.github.io/author/francisco-moreira/</link>
+      <atom:link href="https://racorreia.github.io/author/francisco-moreira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francisco Moreira</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Sat, 01 Feb 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Francisco Moreira</title>
+      <link>https://racorreia.github.io/author/francisco-moreira/</link>
+    </image>
+    
+    <item>
+      <title>A spatially explicit approach to assess the collision risk between birds and overhead power lines: A case study with the little bustard</title>
+      <link>https://racorreia.github.io/publication/2014-silva-bc/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://racorreia.github.io/publication/2014-silva-bc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
