@@ -19,7 +19,7 @@
   
   <url>
     <loc>https://racorreia.github.io/authors/</loc>
-    <lastmod>2020-07-05T18:17:59+03:00</lastmod>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
   </url>
   
   <url>
@@ -49,12 +49,12 @@
   
   <url>
     <loc>https://racorreia.github.io/</loc>
-    <lastmod>2020-07-05T18:17:59+03:00</lastmod>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://racorreia.github.io/tags/</loc>
-    <lastmod>2020-07-05T18:17:59+03:00</lastmod>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
   </url>
   
   <url>
@@ -93,83 +93,108 @@
   </url>
   
   <url>
+    <loc>https://racorreia.github.io/publication-type/2/</loc>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://racorreia.github.io/publication-type/6/</loc>
-    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-19T00:34:14+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://racorreia.github.io/author/aldina-m.-a.-franco/</loc>
-    <lastmod>2020-07-05T18:17:59+03:00</lastmod>
+    <lastmod>2020-07-19T00:34:14+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/author/carlos-pacheco/</loc>
-    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/tag/climate-change/</loc>
-    <lastmod>2020-07-05T18:17:59+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/ines-catry/</loc>
-    <lastmod>2020-07-03T19:28:09+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/joao-p.-silva/</loc>
-    <lastmod>2020-07-05T17:15:48+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/nathalie-i.-gilbert/</loc>
-    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/tag/ornithology/</loc>
-    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/phillip-w.-atkinson/</loc>
-    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/publication_types/</loc>
-    <lastmod>2020-07-05T18:17:59+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/publication/2016-gilbert-book/</loc>
-    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/publication-type/9/</loc>
-    <lastmod>2020-07-05T18:17:59+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/tag/amazon/</loc>
-    <lastmod>2020-07-05T18:02:25+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/publication/2016-correia-nc/</loc>
-    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/publication-type/2/</loc>
-    <lastmod>2020-07-05T18:17:59+03:00</lastmod>
+    <loc>https://racorreia.github.io/author/ana-c.-m.-malhado/</loc>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://racorreia.github.io/tag/birds/</loc>
-    <lastmod>2020-07-05T18:17:59+03:00</lastmod>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/carlos-pacheco/</loc>
+    <lastmod>2020-07-19T00:34:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/tag/climate-change/</loc>
+    <lastmod>2020-07-19T00:34:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/tag/culturomics/</loc>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/publication/2016-correia-peerj/</loc>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/ines-catry/</loc>
+    <lastmod>2020-07-19T00:34:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/joao-p.-silva/</loc>
+    <lastmod>2020-07-19T00:34:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/nathalie-i.-gilbert/</loc>
+    <lastmod>2020-07-19T00:34:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/tag/ornithology/</loc>
+    <lastmod>2020-07-19T00:34:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/paul-jepson/</loc>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/phillip-w.-atkinson/</loc>
+    <lastmod>2020-07-19T00:34:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/publication_types/</loc>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/richard-j.-ladle/</loc>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/publication/2016-gilbert-book/</loc>
+    <lastmod>2020-07-19T00:34:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/publication-type/9/</loc>
+    <lastmod>2020-07-19T00:34:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/tag/amazon/</loc>
+    <lastmod>2020-07-19T00:34:14+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/publication/2016-correia-nc/</loc>
+    <lastmod>2020-07-19T00:34:14+03:00</lastmod>
   </url>
   
   <url>
@@ -184,7 +209,7 @@
   
   <url>
     <loc>https://racorreia.github.io/author/jorge-m.-palmeirim/</loc>
-    <lastmod>2020-07-05T18:17:59+03:00</lastmod>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
   </url>
   
   <url>
@@ -194,11 +219,6 @@
   
   <url>
     <loc>https://racorreia.github.io/author/whitney-c.-haskell/</loc>
-    <lastmod>2020-07-05T18:17:59+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/ana-c.-m.-malhado/</loc>
     <lastmod>2020-07-05T18:17:59+03:00</lastmod>
   </url>
   
@@ -224,11 +244,6 @@
   
   <url>
     <loc>https://racorreia.github.io/publication/2015-ladle-jb/</loc>
-    <lastmod>2020-07-05T18:17:59+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/richard-j.-ladle/</loc>
     <lastmod>2020-07-05T18:17:59+03:00</lastmod>
   </url>
   
@@ -289,7 +304,7 @@
   
   <url>
     <loc>https://racorreia.github.io/author/ana-i.-leal/</loc>
-    <lastmod>2020-07-05T17:15:48+03:00</lastmod>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
   </url>
   
   <url>
@@ -299,7 +314,7 @@
   
   <url>
     <loc>https://racorreia.github.io/author/jose-p.-granadeiro/</loc>
-    <lastmod>2020-07-05T17:15:48+03:00</lastmod>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
   </url>
   
   <url>
@@ -414,12 +429,12 @@
   
   <url>
     <loc>https://racorreia.github.io/tag/cork-oak-woddlands/</loc>
-    <lastmod>2020-07-03T19:28:09+03:00</lastmod>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://racorreia.github.io/publication/2011-leal-bc/</loc>
-    <lastmod>2020-07-03T19:28:09+03:00</lastmod>
+    <lastmod>2020-07-19T00:46:15+03:00</lastmod>
   </url>
   
   <url>
