@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>10 | Ricardo A. Correia</title>
-    <link>https://racorreia.github.io/publication-type/10/</link>
-      <atom:link href="https://racorreia.github.io/publication-type/10/index.xml" rel="self" type="application/rss+xml" />
-    <description>10</description>
+    <title>Google Trends | Ricardo A. Correia</title>
+    <link>https://racorreia.github.io/tag/google-trends/</link>
+      <atom:link href="https://racorreia.github.io/tag/google-trends/index.xml" rel="self" type="application/rss+xml" />
+    <description>Google Trends</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>10</title>
-      <link>https://racorreia.github.io/publication-type/10/</link>
+      <title>Google Trends</title>
+      <link>https://racorreia.github.io/tag/google-trends/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://racorreia.github.io/publication/2019-correia-hera/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://racorreia.github.io/publication/2019-correia-hera/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The power and the promise of culturomics</title>
-      <link>https://racorreia.github.io/publication/2017-ladle-fee/</link>
-      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2017-ladle-fee/</guid>
       <description></description>
     </item>
     
