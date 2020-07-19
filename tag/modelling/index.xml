@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modelling | Ricardo A. Correia</title>
+    <link>https://racorreia.github.io/tag/modelling/</link>
+      <atom:link href="https://racorreia.github.io/tag/modelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Modelling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Modelling</title>
+      <link>https://racorreia.github.io/tag/modelling/</link>
+    </image>
+    
+    <item>
+      <title>Contribution of spatially explicit models to climate change adaptation and mitigation plans for a priority forest habitat</title>
+      <link>https://racorreia.github.io/publication/2018-correia-masgc/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://racorreia.github.io/publication/2018-correia-masgc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
