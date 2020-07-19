@@ -209,6 +209,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172931765-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-172931765-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -248,7 +286,7 @@
     
       <meta property="article:published_time" content="2017-01-01T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2017-01-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-07-19T13:24:24&#43;03:00">
   
 
   
@@ -275,7 +313,7 @@
   "headline": "A Bibliometric Analysis of High Impact Research in the Middle East Using Champion Works",
   
   "datePublished": "2017-01-01T00:00:00Z",
-  "dateModified": "2017-01-01T00:00:00Z",
+  "dateModified": "2020-07-19T13:24:24+03:00",
   
   "author": {
     "@type": "Person",
