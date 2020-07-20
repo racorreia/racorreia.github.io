@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thainá Lessa | Ricardo A. Correia</title>
+    <link>https://racorreia.github.io/author/thaina-lessa/</link>
+      <atom:link href="https://racorreia.github.io/author/thaina-lessa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thainá Lessa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Thainá Lessa</title>
+      <link>https://racorreia.github.io/author/thaina-lessa/</link>
+    </image>
+    
+    <item>
+      <title>Known unknowns: Filling the gaps in scientific knowledge production in the Caatinga</title>
+      <link>https://racorreia.github.io/publication/2019-lessa-plosone/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://racorreia.github.io/publication/2019-lessa-plosone/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
