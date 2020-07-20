@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrea Soriano-Redondo | Ricardo A. Correia</title>
+    <link>https://racorreia.github.io/author/andrea-soriano-redondo/</link>
+      <atom:link href="https://racorreia.github.io/author/andrea-soriano-redondo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrea Soriano-Redondo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Andrea Soriano-Redondo</title>
+      <link>https://racorreia.github.io/author/andrea-soriano-redondo/</link>
+    </image>
+    
+    <item>
+      <title>Inferring public interest from search engine data requires caution</title>
+      <link>https://racorreia.github.io/publication/2019-correia-fee/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://racorreia.github.io/publication/2019-correia-fee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

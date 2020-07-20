@@ -5,7 +5,7 @@
     <link>https://racorreia.github.io/tag/culturomics/</link>
       <atom:link href="https://racorreia.github.io/tag/culturomics/index.xml" rel="self" type="application/rss+xml" />
     <description>Culturomics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Culturomics</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>A culturomics approach to quantifying the salience of species on the global internet</title>
+      <link>https://racorreia.github.io/publication/2019-ladle-pan/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://racorreia.github.io/publication/2019-ladle-pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Assessing cultural ecosystem services of a large marine protected area through social media photographs</title>
       <link>https://racorreia.github.io/publication/2019-retka-ocm/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://racorreia.github.io/publication/2019-retka-ocm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring public interest from search engine data requires caution</title>
+      <link>https://racorreia.github.io/publication/2019-correia-fee/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://racorreia.github.io/publication/2019-correia-fee/</guid>
       <description></description>
     </item>
     
