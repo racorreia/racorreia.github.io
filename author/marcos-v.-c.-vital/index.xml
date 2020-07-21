@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biases | Ricardo A. Correia</title>
-    <link>https://racorreia.github.io/tag/biases/</link>
-      <atom:link href="https://racorreia.github.io/tag/biases/index.xml" rel="self" type="application/rss+xml" />
-    <description>Biases</description>
+    <title>Marcos V. C. Vital | Ricardo A. Correia</title>
+    <link>https://racorreia.github.io/author/marcos-v.-c.-vital/</link>
+      <atom:link href="https://racorreia.github.io/author/marcos-v.-c.-vital/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcos V. C. Vital</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Biases</title>
-      <link>https://racorreia.github.io/tag/biases/</link>
+      <title>Marcos V. C. Vital</title>
+      <link>https://racorreia.github.io/author/marcos-v.-c.-vital/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://racorreia.github.io/publication/2020-silva-jnc/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://racorreia.github.io/publication/2020-silva-jnc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drivers of taxonomic bias in conservation research: a global analysis of terrestrial mammals</title>
-      <link>https://racorreia.github.io/publication/2020-santos-ac/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-santos-ac/</guid>
       <description></description>
     </item>
     
