@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Janisson W. dos Santos | Ricardo A. Correia</title>
-    <link>/author/janisson-w.-dos-santos/</link>
-      <atom:link href="/author/janisson-w.-dos-santos/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://racorreia.github.io/author/janisson-w.-dos-santos/</link>
+      <atom:link href="https://racorreia.github.io/author/janisson-w.-dos-santos/index.xml" rel="self" type="application/rss+xml" />
     <description>Janisson W. dos Santos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Janisson W. dos Santos</title>
-      <link>/author/janisson-w.-dos-santos/</link>
+      <link>https://racorreia.github.io/author/janisson-w.-dos-santos/</link>
     </image>
     
     <item>
       <title>Monitoring and mapping non-governmental conservation action in Amazonia</title>
-      <link>/publication/2020-malhado-lup/</link>
+      <link>https://racorreia.github.io/publication/2020-malhado-lup/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-malhado-lup/</guid>
+      <guid>https://racorreia.github.io/publication/2020-malhado-lup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drivers of taxonomic bias in conservation research: a global analysis of terrestrial mammals</title>
-      <link>/publication/2020-santos-ac/</link>
+      <link>https://racorreia.github.io/publication/2020-santos-ac/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-santos-ac/</guid>
+      <guid>https://racorreia.github.io/publication/2020-santos-ac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using ignorance scores to explore biodiversity recording effort for multiple taxa in the Caatinga</title>
-      <link>/publication/2019-correia-ei/</link>
+      <link>https://racorreia.github.io/publication/2019-correia-ei/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-correia-ei/</guid>
+      <guid>https://racorreia.github.io/publication/2019-correia-ei/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Known unknowns: Filling the gaps in scientific knowledge production in the Caatinga</title>
-      <link>/publication/2019-lessa-plosone/</link>
+      <link>https://racorreia.github.io/publication/2019-lessa-plosone/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-lessa-plosone/</guid>
+      <guid>https://racorreia.github.io/publication/2019-lessa-plosone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drier climate shifts leaf morphology in Amazonian trees</title>
-      <link>/publication/2017-stropp-oecologia/</link>
+      <link>https://racorreia.github.io/publication/2017-stropp-oecologia/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017-stropp-oecologia/</guid>
+      <guid>https://racorreia.github.io/publication/2017-stropp-oecologia/</guid>
       <description></description>
     </item>
     

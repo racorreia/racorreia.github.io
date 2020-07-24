@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GPS tracking | Ricardo A. Correia</title>
-    <link>/tag/gps-tracking/</link>
-      <atom:link href="/tag/gps-tracking/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://racorreia.github.io/tag/gps-tracking/</link>
+      <atom:link href="https://racorreia.github.io/tag/gps-tracking/index.xml" rel="self" type="application/rss+xml" />
     <description>GPS tracking</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>GPS tracking</title>
-      <link>/tag/gps-tracking/</link>
+      <link>https://racorreia.github.io/tag/gps-tracking/</link>
     </image>
     
     <item>
       <title>Male post‐breeding movements and stopover habitat selection of an endangered short‐distance migrant, the Little Bustard Tetrax tetrax</title>
-      <link>/publication/2020-alonso-ibis/</link>
+      <link>https://racorreia.github.io/publication/2020-alonso-ibis/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-alonso-ibis/</guid>
+      <guid>https://racorreia.github.io/publication/2020-alonso-ibis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Are white storks addicted to junk food? Impacts of landfill use on the movement and behaviour of resident white storks (Ciconia ciconia) from a partially migratory population</title>
-      <link>/publication/2016-gilbert-me/</link>
+      <link>https://racorreia.github.io/publication/2016-gilbert-me/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016-gilbert-me/</guid>
+      <guid>https://racorreia.github.io/publication/2016-gilbert-me/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A spatially explicit approach to assess the collision risk between birds and overhead power lines: A case study with the little bustard</title>
-      <link>/publication/2014-silva-bc/</link>
+      <link>https://racorreia.github.io/publication/2014-silva-bc/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/2014-silva-bc/</guid>
+      <guid>https://racorreia.github.io/publication/2014-silva-bc/</guid>
       <description></description>
     </item>
     

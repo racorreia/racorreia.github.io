@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Methodology | Ricardo A. Correia</title>
-    <link>/tag/methodology/</link>
-      <atom:link href="/tag/methodology/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://racorreia.github.io/tag/methodology/</link>
+      <atom:link href="https://racorreia.github.io/tag/methodology/index.xml" rel="self" type="application/rss+xml" />
     <description>Methodology</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Methodology</title>
-      <link>/tag/methodology/</link>
+      <link>https://racorreia.github.io/tag/methodology/</link>
     </image>
     
     <item>
       <title>Developing and validating a nestling photographic aging guide for cavity-nesting birds: an example with the European Bee-eater (Merops apiaster)</title>
-      <link>/publication/2020-costa-ar/</link>
+      <link>https://racorreia.github.io/publication/2020-costa-ar/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-costa-ar/</guid>
+      <guid>https://racorreia.github.io/publication/2020-costa-ar/</guid>
       <description></description>
     </item>
     

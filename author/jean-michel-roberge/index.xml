@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jean-Michel Roberge | Ricardo A. Correia</title>
-    <link>/author/jean-michel-roberge/</link>
-      <atom:link href="/author/jean-michel-roberge/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://racorreia.github.io/author/jean-michel-roberge/</link>
+      <atom:link href="https://racorreia.github.io/author/jean-michel-roberge/index.xml" rel="self" type="application/rss+xml" />
     <description>Jean-Michel Roberge</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jean-Michel Roberge</title>
-      <link>/author/jean-michel-roberge/</link>
+      <link>https://racorreia.github.io/author/jean-michel-roberge/</link>
     </image>
     
     <item>
       <title>Conservation Culturomics</title>
-      <link>/publication/2016-ladle-fee/</link>
+      <link>https://racorreia.github.io/publication/2016-ladle-fee/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/2016-ladle-fee/</guid>
+      <guid>https://racorreia.github.io/publication/2016-ladle-fee/</guid>
       <description></description>
     </item>
     

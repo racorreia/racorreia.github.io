@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jörn Gessner | Ricardo A. Correia</title>
-    <link>/author/jorn-gessner/</link>
-      <atom:link href="/author/jorn-gessner/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://racorreia.github.io/author/jorn-gessner/</link>
+      <atom:link href="https://racorreia.github.io/author/jorn-gessner/index.xml" rel="self" type="application/rss+xml" />
     <description>Jörn Gessner</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jörn Gessner</title>
-      <link>/author/jorn-gessner/</link>
+      <link>https://racorreia.github.io/author/jorn-gessner/</link>
     </image>
     
     <item>
       <title>On the overlap between scientific and societal taxonomic attentions - Insights for conservation</title>
-      <link>/publication/2019-jaric-stoten/</link>
+      <link>https://racorreia.github.io/publication/2019-jaric-stoten/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-jaric-stoten/</guid>
+      <guid>https://racorreia.github.io/publication/2019-jaric-stoten/</guid>
       <description></description>
     </item>
     

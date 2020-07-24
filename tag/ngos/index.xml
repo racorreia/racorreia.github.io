@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NGOs | Ricardo A. Correia</title>
-    <link>/tag/ngos/</link>
-      <atom:link href="/tag/ngos/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://racorreia.github.io/tag/ngos/</link>
+      <atom:link href="https://racorreia.github.io/tag/ngos/index.xml" rel="self" type="application/rss+xml" />
     <description>NGOs</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>NGOs</title>
-      <link>/tag/ngos/</link>
+      <link>https://racorreia.github.io/tag/ngos/</link>
     </image>
     
     <item>
       <title>Monitoring and mapping non-governmental conservation action in Amazonia</title>
-      <link>/publication/2020-malhado-lup/</link>
+      <link>https://racorreia.github.io/publication/2020-malhado-lup/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-malhado-lup/</guid>
+      <guid>https://racorreia.github.io/publication/2020-malhado-lup/</guid>
       <description></description>
     </item>
     

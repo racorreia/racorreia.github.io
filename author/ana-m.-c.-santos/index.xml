@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ana M. C. Santos | Ricardo A. Correia</title>
-    <link>/author/ana-m.-c.-santos/</link>
-      <atom:link href="/author/ana-m.-c.-santos/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://racorreia.github.io/author/ana-m.-c.-santos/</link>
+      <atom:link href="https://racorreia.github.io/author/ana-m.-c.-santos/index.xml" rel="self" type="application/rss+xml" />
     <description>Ana M. C. Santos</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ana M. C. Santos</title>
-      <link>/author/ana-m.-c.-santos/</link>
+      <link>https://racorreia.github.io/author/ana-m.-c.-santos/</link>
     </image>
     
     <item>
       <title>Research trends in biogeography</title>
-      <link>/publication/2015-ladle-jb/</link>
+      <link>https://racorreia.github.io/publication/2015-ladle-jb/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015-ladle-jb/</guid>
+      <guid>https://racorreia.github.io/publication/2015-ladle-jb/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oded Berger-Tal | Ricardo A. Correia</title>
-    <link>/author/oded-berger-tal/</link>
-      <atom:link href="/author/oded-berger-tal/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://racorreia.github.io/author/oded-berger-tal/</link>
+      <atom:link href="https://racorreia.github.io/author/oded-berger-tal/index.xml" rel="self" type="application/rss+xml" />
     <description>Oded Berger-Tal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Oded Berger-Tal</title>
-      <link>/author/oded-berger-tal/</link>
+      <link>https://racorreia.github.io/author/oded-berger-tal/</link>
     </image>
     
     <item>
       <title>Using machine learning to disentangle homonyms in large text corpora</title>
-      <link>/publication/2018-roll-cb/</link>
+      <link>https://racorreia.github.io/publication/2018-roll-cb/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-roll-cb/</guid>
+      <guid>https://racorreia.github.io/publication/2018-roll-cb/</guid>
       <description></description>
     </item>
     

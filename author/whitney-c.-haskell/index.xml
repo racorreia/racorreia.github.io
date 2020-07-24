@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Whitney C. Haskell | Ricardo A. Correia</title>
-    <link>/author/whitney-c.-haskell/</link>
-      <atom:link href="/author/whitney-c.-haskell/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://racorreia.github.io/author/whitney-c.-haskell/</link>
+      <atom:link href="https://racorreia.github.io/author/whitney-c.-haskell/index.xml" rel="self" type="application/rss+xml" />
     <description>Whitney C. Haskell</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Thu, 15 Oct 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Whitney C. Haskell</title>
-      <link>/author/whitney-c.-haskell/</link>
+      <link>https://racorreia.github.io/author/whitney-c.-haskell/</link>
     </image>
     
     <item>
       <title>Topography and aridity influence oak woodland bird assemblages in southern Europe</title>
-      <link>/publication/2015-correia-fem/</link>
+      <link>https://racorreia.github.io/publication/2015-correia-fem/</link>
       <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/2015-correia-fem/</guid>
+      <guid>https://racorreia.github.io/publication/2015-correia-fem/</guid>
       <description></description>
     </item>
     

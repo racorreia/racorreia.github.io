@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ana Novoa | Ricardo A. Correia</title>
-    <link>/author/ana-novoa/</link>
-      <atom:link href="/author/ana-novoa/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://racorreia.github.io/author/ana-novoa/</link>
+      <atom:link href="https://racorreia.github.io/author/ana-novoa/index.xml" rel="self" type="application/rss+xml" />
     <description>Ana Novoa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ana Novoa</title>
-      <link>/author/ana-novoa/</link>
+      <link>https://racorreia.github.io/author/ana-novoa/</link>
     </image>
     
     <item>
       <title>The role of species charisma in biological invasions</title>
-      <link>/publication/2020-jaric-fee/</link>
+      <link>https://racorreia.github.io/publication/2020-jaric-fee/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-jaric-fee/</guid>
+      <guid>https://racorreia.github.io/publication/2020-jaric-fee/</guid>
       <description></description>
     </item>
     
