@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog | Ricardo A. Correia</title>
-    <link>https://racorreia.github.io/tag/blog/</link>
-      <atom:link href="https://racorreia.github.io/tag/blog/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/blog/</link>
+      <atom:link href="/tag/blog/index.xml" rel="self" type="application/rss+xml" />
     <description>blog</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>blog</title>
-      <link>https://racorreia.github.io/tag/blog/</link>
+      <link>/tag/blog/</link>
     </image>
     
     <item>
       <title>Hello world!</title>
-      <link>https://racorreia.github.io/post/hello_world/</link>
+      <link>/post/hello_world/</link>
       <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/post/hello_world/</guid>
+      <guid>/post/hello_world/</guid>
       <description>&lt;h1 id=&#34;welcome-to-my-personal-website&#34;&gt;Welcome to my personal website!&lt;/h1&gt;
 &lt;h2 id=&#34;who-am-i&#34;&gt;Who am I?&lt;/h2&gt;
 &lt;p&gt;I am an enthusiastic conservation researcher working for the preservation of our natural world!&lt;/p&gt;

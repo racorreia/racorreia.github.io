@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>João V. Campos-Silva | Ricardo A. Correia</title>
-    <link>https://racorreia.github.io/author/joao-v.-campos-silva/</link>
-      <atom:link href="https://racorreia.github.io/author/joao-v.-campos-silva/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/joao-v.-campos-silva/</link>
+      <atom:link href="/author/joao-v.-campos-silva/index.xml" rel="self" type="application/rss+xml" />
     <description>João V. Campos-Silva</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>João V. Campos-Silva</title>
-      <link>https://racorreia.github.io/author/joao-v.-campos-silva/</link>
+      <link>/author/joao-v.-campos-silva/</link>
     </image>
     
     <item>
       <title>The ghosts of forests past and future: deforestation and botanical sampling in the Brazilian Amazon</title>
-      <link>https://racorreia.github.io/publication/2020-stropp-ecography/</link>
+      <link>/publication/2020-stropp-ecography/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-stropp-ecography/</guid>
+      <guid>/publication/2020-stropp-ecography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating long-term ecological research (LTER) and marine protected area management: Challenges and solutions</title>
-      <link>https://racorreia.github.io/publication/2020-miranda-oa/</link>
+      <link>/publication/2020-miranda-oa/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-miranda-oa/</guid>
+      <guid>/publication/2020-miranda-oa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring and mapping non-governmental conservation action in Amazonia</title>
-      <link>https://racorreia.github.io/publication/2020-malhado-lup/</link>
+      <link>/publication/2020-malhado-lup/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-malhado-lup/</guid>
+      <guid>/publication/2020-malhado-lup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drivers of taxonomic bias in conservation research: a global analysis of terrestrial mammals</title>
-      <link>https://racorreia.github.io/publication/2020-santos-ac/</link>
+      <link>/publication/2020-santos-ac/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-santos-ac/</guid>
+      <guid>/publication/2020-santos-ac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assets em Áreas Protegidas - Estudo de caso em Áreas Úmidas (in English: Protected area assets - A case study with wetlands)</title>
-      <link>https://racorreia.github.io/publication/2019-gamarra-bb/</link>
+      <link>/publication/2019-gamarra-bb/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-gamarra-bb/</guid>
+      <guid>/publication/2019-gamarra-bb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Are Protected Areas undervalued? An asset-based analysis of Brazilian Protected Area Management Plans</title>
-      <link>https://racorreia.github.io/publication/2019-gamarra-jem/</link>
+      <link>/publication/2019-gamarra-jem/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-gamarra-jem/</guid>
+      <guid>/publication/2019-gamarra-jem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hunting in Brazil: What are the options?</title>
-      <link>https://racorreia.github.io/publication/2019-bragagnolo-pec/</link>
+      <link>/publication/2019-bragagnolo-pec/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-bragagnolo-pec/</guid>
+      <guid>/publication/2019-bragagnolo-pec/</guid>
       <description></description>
     </item>
     

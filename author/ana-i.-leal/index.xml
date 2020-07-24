@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ana I. Leal | Ricardo A. Correia</title>
-    <link>https://racorreia.github.io/author/ana-i.-leal/</link>
-      <atom:link href="https://racorreia.github.io/author/ana-i.-leal/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/ana-i.-leal/</link>
+      <atom:link href="/author/ana-i.-leal/index.xml" rel="self" type="application/rss+xml" />
     <description>Ana I. Leal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ana I. Leal</title>
-      <link>https://racorreia.github.io/author/ana-i.-leal/</link>
+      <link>/author/ana-i.-leal/</link>
     </image>
     
     <item>
       <title>Increasing biodiversity in wood-pastures by protecting small shrubby patches</title>
-      <link>https://racorreia.github.io/publication/2020-oksuz-fem/</link>
+      <link>/publication/2020-oksuz-fem/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-oksuz-fem/</guid>
+      <guid>/publication/2020-oksuz-fem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is research supporting sustainable management in a changing world? Insights from a Mediterranean silvopastoral system</title>
-      <link>https://racorreia.github.io/publication/2019-leal-as/</link>
+      <link>/publication/2019-leal-as/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-leal-as/</guid>
+      <guid>/publication/2019-leal-as/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does canopy pruning affect foliage-gleaning birds in managed cork oak woodlands?</title>
-      <link>https://racorreia.github.io/publication/2013-leal-as/</link>
+      <link>/publication/2013-leal-as/</link>
       <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2013-leal-as/</guid>
+      <guid>/publication/2013-leal-as/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of cork extraction on birds: Relevance for conservation of Mediterranean biodiversity</title>
-      <link>https://racorreia.github.io/publication/2011-leal-bc/</link>
+      <link>/publication/2011-leal-bc/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2011-leal-bc/</guid>
+      <guid>/publication/2011-leal-bc/</guid>
       <description></description>
     </item>
     

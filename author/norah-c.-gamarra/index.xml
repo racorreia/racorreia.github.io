@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Norah C. Gamarra | Ricardo A. Correia</title>
-    <link>https://racorreia.github.io/author/norah-c.-gamarra/</link>
-      <atom:link href="https://racorreia.github.io/author/norah-c.-gamarra/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/norah-c.-gamarra/</link>
+      <atom:link href="/author/norah-c.-gamarra/index.xml" rel="self" type="application/rss+xml" />
     <description>Norah C. Gamarra</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Norah C. Gamarra</title>
-      <link>https://racorreia.github.io/author/norah-c.-gamarra/</link>
+      <link>/author/norah-c.-gamarra/</link>
     </image>
     
     <item>
       <title>Protected area asset stewardship</title>
-      <link>https://racorreia.github.io/publication/2017-jepson-bc/</link>
+      <link>/publication/2017-jepson-bc/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2017-jepson-bc/</guid>
+      <guid>/publication/2017-jepson-bc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The scientific value of Amazonian protected areas</title>
-      <link>https://racorreia.github.io/publication/2016-correia-bc/</link>
+      <link>/publication/2016-correia-bc/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2016-correia-bc/</guid>
+      <guid>/publication/2016-correia-bc/</guid>
       <description></description>
     </item>
     

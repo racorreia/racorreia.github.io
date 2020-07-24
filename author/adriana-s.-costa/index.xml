@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adriana S. Costa | Ricardo A. Correia</title>
-    <link>https://racorreia.github.io/author/adriana-s.-costa/</link>
-      <atom:link href="https://racorreia.github.io/author/adriana-s.-costa/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/adriana-s.-costa/</link>
+      <atom:link href="/author/adriana-s.-costa/index.xml" rel="self" type="application/rss+xml" />
     <description>Adriana S. Costa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Adriana S. Costa</title>
-      <link>https://racorreia.github.io/author/adriana-s.-costa/</link>
+      <link>/author/adriana-s.-costa/</link>
     </image>
     
     <item>
       <title>Ecological outcomes of Atlantic Forest restoration initiatives by sugar cane producers</title>
-      <link>https://racorreia.github.io/publication/2016-costa-lup/</link>
+      <link>/publication/2016-costa-lup/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2016-costa-lup/</guid>
+      <guid>/publication/2016-costa-lup/</guid>
       <description></description>
     </item>
     

@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scientometrics | Ricardo A. Correia</title>
-    <link>https://racorreia.github.io/tag/scientometrics/</link>
-      <atom:link href="https://racorreia.github.io/tag/scientometrics/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/scientometrics/</link>
+      <atom:link href="/tag/scientometrics/index.xml" rel="self" type="application/rss+xml" />
     <description>Scientometrics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Scientometrics</title>
-      <link>https://racorreia.github.io/tag/scientometrics/</link>
+      <link>/tag/scientometrics/</link>
     </image>
     
     <item>
       <title>Taxonomic bias in amphibian research: Are researchers responding to conservation need?</title>
-      <link>https://racorreia.github.io/publication/2020-silva-jnc/</link>
+      <link>/publication/2020-silva-jnc/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-silva-jnc/</guid>
+      <guid>/publication/2020-silva-jnc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drivers of taxonomic bias in conservation research: a global analysis of terrestrial mammals</title>
-      <link>https://racorreia.github.io/publication/2020-santos-ac/</link>
+      <link>/publication/2020-santos-ac/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-santos-ac/</guid>
+      <guid>/publication/2020-santos-ac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scientific Productivity of Brazilian Ecological Stations</title>
-      <link>https://racorreia.github.io/publication/2019-alencar-ec/</link>
+      <link>/publication/2019-alencar-ec/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-alencar-ec/</guid>
+      <guid>/publication/2019-alencar-ec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Known unknowns: Filling the gaps in scientific knowledge production in the Caatinga</title>
-      <link>https://racorreia.github.io/publication/2019-lessa-plosone/</link>
+      <link>/publication/2019-lessa-plosone/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-lessa-plosone/</guid>
+      <guid>/publication/2019-lessa-plosone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is research supporting sustainable management in a changing world? Insights from a Mediterranean silvopastoral system</title>
-      <link>https://racorreia.github.io/publication/2019-leal-as/</link>
+      <link>/publication/2019-leal-as/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-leal-as/</guid>
+      <guid>/publication/2019-leal-as/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the overlap between scientific and societal taxonomic attentions - Insights for conservation</title>
-      <link>https://racorreia.github.io/publication/2019-jaric-stoten/</link>
+      <link>/publication/2019-jaric-stoten/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-jaric-stoten/</guid>
+      <guid>/publication/2019-jaric-stoten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pivotal 20th century contributions to the development of the Anthropocene concept - overview and implications</title>
-      <link>https://racorreia.github.io/publication/2018-correia-cs/</link>
+      <link>/publication/2018-correia-cs/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2018-correia-cs/</guid>
+      <guid>/publication/2018-correia-cs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Bibliometric Analysis of High Impact Research in the Middle East Using Champion Works</title>
-      <link>https://racorreia.github.io/publication/2017-akyuz-iilr/</link>
+      <link>/publication/2017-akyuz-iilr/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2017-akyuz-iilr/</guid>
+      <guid>/publication/2017-akyuz-iilr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The scientific value of Amazonian protected areas</title>
-      <link>https://racorreia.github.io/publication/2016-correia-bc/</link>
+      <link>/publication/2016-correia-bc/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2016-correia-bc/</guid>
+      <guid>/publication/2016-correia-bc/</guid>
       <description></description>
     </item>
     

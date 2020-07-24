@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Humberto Barbosa | Ricardo A. Correia</title>
-    <link>https://racorreia.github.io/author/humberto-barbosa/</link>
-      <atom:link href="https://racorreia.github.io/author/humberto-barbosa/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/humberto-barbosa/</link>
+      <atom:link href="/author/humberto-barbosa/index.xml" rel="self" type="application/rss+xml" />
     <description>Humberto Barbosa</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Humberto Barbosa</title>
-      <link>https://racorreia.github.io/author/humberto-barbosa/</link>
+      <link>/author/humberto-barbosa/</link>
     </image>
     
     <item>
       <title>Protected areas buffer the Brazilian semi‐arid biome from climate change</title>
-      <link>https://racorreia.github.io/publication/2017-acostasalvatierra-biotropica/</link>
+      <link>/publication/2017-acostasalvatierra-biotropica/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2017-acostasalvatierra-biotropica/</guid>
+      <guid>/publication/2017-acostasalvatierra-biotropica/</guid>
       <description></description>
     </item>
     

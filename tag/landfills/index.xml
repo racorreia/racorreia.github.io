@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Landfills | Ricardo A. Correia</title>
-    <link>https://racorreia.github.io/tag/landfills/</link>
-      <atom:link href="https://racorreia.github.io/tag/landfills/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/landfills/</link>
+      <atom:link href="/tag/landfills/index.xml" rel="self" type="application/rss+xml" />
     <description>Landfills</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Landfills</title>
-      <link>https://racorreia.github.io/tag/landfills/</link>
+      <link>/tag/landfills/</link>
     </image>
     
     <item>
       <title>Are white storks addicted to junk food? Impacts of landfill use on the movement and behaviour of resident white storks (Ciconia ciconia) from a partially migratory population</title>
-      <link>https://racorreia.github.io/publication/2016-gilbert-me/</link>
+      <link>/publication/2016-gilbert-me/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2016-gilbert-me/</guid>
+      <guid>/publication/2016-gilbert-me/</guid>
       <description></description>
     </item>
     

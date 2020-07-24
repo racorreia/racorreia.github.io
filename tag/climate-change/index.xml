@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Climate change | Ricardo A. Correia</title>
-    <link>https://racorreia.github.io/tag/climate-change/</link>
-      <atom:link href="https://racorreia.github.io/tag/climate-change/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/climate-change/</link>
+      <atom:link href="/tag/climate-change/index.xml" rel="self" type="application/rss+xml" />
     <description>Climate change</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Climate change</title>
-      <link>https://racorreia.github.io/tag/climate-change/</link>
+      <link>/tag/climate-change/</link>
     </image>
     
     <item>
       <title>Societal attention toward extinction threats: a comparison between climate change and biological invasions</title>
-      <link>https://racorreia.github.io/publication/2020-jaric-sr/</link>
+      <link>/publication/2020-jaric-sr/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-jaric-sr/</guid>
+      <guid>/publication/2020-jaric-sr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Are capacity deficits in local government leaving the Amazon vulnerable to environmental change?</title>
-      <link>https://racorreia.github.io/publication/2017-malhado-lup/</link>
+      <link>/publication/2017-malhado-lup/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2017-malhado-lup/</guid>
+      <guid>/publication/2017-malhado-lup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drier climate shifts leaf morphology in Amazonian trees</title>
-      <link>https://racorreia.github.io/publication/2017-stropp-oecologia/</link>
+      <link>/publication/2017-stropp-oecologia/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2017-stropp-oecologia/</guid>
+      <guid>/publication/2017-stropp-oecologia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protected areas buffer the Brazilian semi‐arid biome from climate change</title>
-      <link>https://racorreia.github.io/publication/2017-acostasalvatierra-biotropica/</link>
+      <link>/publication/2017-acostasalvatierra-biotropica/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2017-acostasalvatierra-biotropica/</guid>
+      <guid>/publication/2017-acostasalvatierra-biotropica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The influence of weather conditions on foraging strategies and landfill use by White Storks Ciconia ciconia overwintering in Southern Europe</title>
-      <link>https://racorreia.github.io/publication/2016-gilbert-book/</link>
+      <link>/publication/2016-gilbert-book/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2016-gilbert-book/</guid>
+      <guid>/publication/2016-gilbert-book/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topography and aridity influence oak woodland bird assemblages in southern Europe</title>
-      <link>https://racorreia.github.io/publication/2015-correia-fem/</link>
+      <link>/publication/2015-correia-fem/</link>
       <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2015-correia-fem/</guid>
+      <guid>/publication/2015-correia-fem/</guid>
       <description></description>
     </item>
     

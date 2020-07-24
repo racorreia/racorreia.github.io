@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Franck Courchamp | Ricardo A. Correia</title>
-    <link>https://racorreia.github.io/author/franck-courchamp/</link>
-      <atom:link href="https://racorreia.github.io/author/franck-courchamp/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/franck-courchamp/</link>
+      <atom:link href="/author/franck-courchamp/index.xml" rel="self" type="application/rss+xml" />
     <description>Franck Courchamp</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Franck Courchamp</title>
-      <link>https://racorreia.github.io/author/franck-courchamp/</link>
+      <link>/author/franck-courchamp/</link>
     </image>
     
     <item>
       <title>iEcology: Harnessing Large Online Resources to Generate Ecological Insights</title>
-      <link>https://racorreia.github.io/publication/2020-jaric-tree/</link>
+      <link>/publication/2020-jaric-tree/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-jaric-tree/</guid>
+      <guid>/publication/2020-jaric-tree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Societal attention toward extinction threats: a comparison between climate change and biological invasions</title>
-      <link>https://racorreia.github.io/publication/2020-jaric-sr/</link>
+      <link>/publication/2020-jaric-sr/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-jaric-sr/</guid>
+      <guid>/publication/2020-jaric-sr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of species charisma in biological invasions</title>
-      <link>https://racorreia.github.io/publication/2020-jaric-fee/</link>
+      <link>/publication/2020-jaric-fee/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-jaric-fee/</guid>
+      <guid>/publication/2020-jaric-fee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the overlap between scientific and societal taxonomic attentions - Insights for conservation</title>
-      <link>https://racorreia.github.io/publication/2019-jaric-stoten/</link>
+      <link>/publication/2019-jaric-stoten/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-jaric-stoten/</guid>
+      <guid>/publication/2019-jaric-stoten/</guid>
       <description></description>
     </item>
     
