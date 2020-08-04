@@ -2,437 +2,457 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Ricardo A. Correia</title>
-    <link>https://racorreia.github.io/publication-type/2/</link>
-      <atom:link href="https://racorreia.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
-      <link>https://racorreia.github.io/publication-type/2/</link>
+      <link>/publication-type/2/</link>
     </image>
     
     <item>
       <title>Taxonomic bias in amphibian research: Are researchers responding to conservation need?</title>
-      <link>https://racorreia.github.io/publication/2020-silva-jnc/</link>
+      <link>/publication/2020-silva-jnc/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-silva-jnc/</guid>
+      <guid>/publication/2020-silva-jnc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iEcology: Harnessing Large Online Resources to Generate Ecological Insights</title>
-      <link>https://racorreia.github.io/publication/2020-jaric-tree/</link>
+      <link>/publication/2020-jaric-tree/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-jaric-tree/</guid>
+      <guid>/publication/2020-jaric-tree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Societal attention toward extinction threats: a comparison between climate change and biological invasions</title>
-      <link>https://racorreia.github.io/publication/2020-jaric-sr/</link>
+      <link>/publication/2020-jaric-sr/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-jaric-sr/</guid>
+      <guid>/publication/2020-jaric-sr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The ghosts of forests past and future: deforestation and botanical sampling in the Brazilian Amazon</title>
-      <link>https://racorreia.github.io/publication/2020-stropp-ecography/</link>
+      <link>/publication/2020-stropp-ecography/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-stropp-ecography/</guid>
+      <guid>/publication/2020-stropp-ecography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating long-term ecological research (LTER) and marine protected area management: Challenges and solutions</title>
-      <link>https://racorreia.github.io/publication/2020-miranda-oa/</link>
+      <link>/publication/2020-miranda-oa/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-miranda-oa/</guid>
+      <guid>/publication/2020-miranda-oa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Increasing biodiversity in wood-pastures by protecting small shrubby patches</title>
-      <link>https://racorreia.github.io/publication/2020-oksuz-fem/</link>
+      <link>/publication/2020-oksuz-fem/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-oksuz-fem/</guid>
+      <guid>/publication/2020-oksuz-fem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Monitoring and mapping non-governmental conservation action in Amazonia</title>
-      <link>https://racorreia.github.io/publication/2020-malhado-lup/</link>
+      <link>/publication/2020-malhado-lup/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-malhado-lup/</guid>
+      <guid>/publication/2020-malhado-lup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drivers of taxonomic bias in conservation research: a global analysis of terrestrial mammals</title>
-      <link>https://racorreia.github.io/publication/2020-santos-ac/</link>
+      <link>/publication/2020-santos-ac/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-santos-ac/</guid>
+      <guid>/publication/2020-santos-ac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Male post‐breeding movements and stopover habitat selection of an endangered short‐distance migrant, the Little Bustard Tetrax tetrax</title>
-      <link>https://racorreia.github.io/publication/2020-alonso-ibis/</link>
+      <link>/publication/2020-alonso-ibis/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-alonso-ibis/</guid>
+      <guid>/publication/2020-alonso-ibis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The role of species charisma in biological invasions</title>
-      <link>https://racorreia.github.io/publication/2020-jaric-fee/</link>
+      <link>/publication/2020-jaric-fee/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-jaric-fee/</guid>
+      <guid>/publication/2020-jaric-fee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developing and validating a nestling photographic aging guide for cavity-nesting birds: an example with the European Bee-eater (Merops apiaster)</title>
-      <link>https://racorreia.github.io/publication/2020-costa-ar/</link>
+      <link>/publication/2020-costa-ar/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2020-costa-ar/</guid>
+      <guid>/publication/2020-costa-ar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A culturomics approach to quantifying the salience of species on the global internet</title>
-      <link>https://racorreia.github.io/publication/2019-ladle-pan/</link>
+      <link>/publication/2019-ladle-pan/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-ladle-pan/</guid>
+      <guid>/publication/2019-ladle-pan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assets em Áreas Protegidas - Estudo de caso em Áreas Úmidas (in English: Protected area assets - A case study with wetlands)</title>
-      <link>https://racorreia.github.io/publication/2019-gamarra-bb/</link>
+      <link>/publication/2019-gamarra-bb/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-gamarra-bb/</guid>
+      <guid>/publication/2019-gamarra-bb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Are Protected Areas undervalued? An asset-based analysis of Brazilian Protected Area Management Plans</title>
-      <link>https://racorreia.github.io/publication/2019-gamarra-jem/</link>
+      <link>/publication/2019-gamarra-jem/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-gamarra-jem/</guid>
+      <guid>/publication/2019-gamarra-jem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using ignorance scores to explore biodiversity recording effort for multiple taxa in the Caatinga</title>
-      <link>https://racorreia.github.io/publication/2019-correia-ei/</link>
+      <link>/publication/2019-correia-ei/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-correia-ei/</guid>
+      <guid>/publication/2019-correia-ei/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scientific Productivity of Brazilian Ecological Stations</title>
-      <link>https://racorreia.github.io/publication/2019-alencar-ec/</link>
+      <link>/publication/2019-alencar-ec/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-alencar-ec/</guid>
+      <guid>/publication/2019-alencar-ec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Known unknowns: Filling the gaps in scientific knowledge production in the Caatinga</title>
-      <link>https://racorreia.github.io/publication/2019-lessa-plosone/</link>
+      <link>/publication/2019-lessa-plosone/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-lessa-plosone/</guid>
+      <guid>/publication/2019-lessa-plosone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assessing cultural ecosystem services of a large marine protected area through social media photographs</title>
-      <link>https://racorreia.github.io/publication/2019-retka-ocm/</link>
+      <link>/publication/2019-retka-ocm/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-retka-ocm/</guid>
+      <guid>/publication/2019-retka-ocm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data mining on YouTube reveals fisher group-specific harvesting patterns and social engagement in recreational anglers and spearfishers</title>
-      <link>https://racorreia.github.io/publication/2019-sbragaglia-icesjms/</link>
+      <link>/publication/2019-sbragaglia-icesjms/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-sbragaglia-icesjms/</guid>
+      <guid>/publication/2019-sbragaglia-icesjms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hunting in Brazil: What are the options?</title>
-      <link>https://racorreia.github.io/publication/2019-bragagnolo-pec/</link>
+      <link>/publication/2019-bragagnolo-pec/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-bragagnolo-pec/</guid>
+      <guid>/publication/2019-bragagnolo-pec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developing a global indicator for Aichi Target 1 by merging online data sources to measure biodiversity awareness and engagement</title>
-      <link>https://racorreia.github.io/publication/2019-cooper-bc/</link>
+      <link>/publication/2019-cooper-bc/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-cooper-bc/</guid>
+      <guid>/publication/2019-cooper-bc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is research supporting sustainable management in a changing world? Insights from a Mediterranean silvopastoral system</title>
-      <link>https://racorreia.github.io/publication/2019-leal-as/</link>
+      <link>/publication/2019-leal-as/</link>
       <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-leal-as/</guid>
+      <guid>/publication/2019-leal-as/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the overlap between scientific and societal taxonomic attentions - Insights for conservation</title>
-      <link>https://racorreia.github.io/publication/2019-jaric-stoten/</link>
+      <link>/publication/2019-jaric-stoten/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2019-jaric-stoten/</guid>
+      <guid>/publication/2019-jaric-stoten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pivotal 20th century contributions to the development of the Anthropocene concept - overview and implications</title>
-      <link>https://racorreia.github.io/publication/2018-correia-cs/</link>
+      <link>/publication/2018-correia-cs/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2018-correia-cs/</guid>
+      <guid>/publication/2018-correia-cs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A salience index for integrating multiple user perspectives in cultural ecosystem service assessments</title>
-      <link>https://racorreia.github.io/publication/2018-vieira-es/</link>
+      <link>/publication/2018-vieira-es/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2018-vieira-es/</guid>
+      <guid>/publication/2018-vieira-es/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nomenclature instability in species culturomic assessments: Why synonyms matter</title>
-      <link>https://racorreia.github.io/publication/2018-correia-ei-a/</link>
+      <link>/publication/2018-correia-ei-a/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2018-correia-ei-a/</guid>
+      <guid>/publication/2018-correia-ei-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using machine learning to disentangle homonyms in large text corpora</title>
-      <link>https://racorreia.github.io/publication/2018-roll-cb/</link>
+      <link>/publication/2018-roll-cb/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2018-roll-cb/</guid>
+      <guid>/publication/2018-roll-cb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Culturomic assessment of Brazilian protected areas: Exploring a novel index of protected area visibility</title>
-      <link>https://racorreia.github.io/publication/2018-correia-ei-b/</link>
+      <link>/publication/2018-correia-ei-b/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2018-correia-ei-b/</guid>
+      <guid>/publication/2018-correia-ei-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contribution of spatially explicit models to climate change adaptation and mitigation plans for a priority forest habitat</title>
-      <link>https://racorreia.github.io/publication/2018-correia-masgc/</link>
+      <link>/publication/2018-correia-masgc/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2018-correia-masgc/</guid>
+      <guid>/publication/2018-correia-masgc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>EU protected area network did not prevent a country wide population decline in a threatened grassland bird</title>
-      <link>https://racorreia.github.io/publication/2018-silva-peerj/</link>
+      <link>/publication/2018-silva-peerj/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2018-silva-peerj/</guid>
+      <guid>/publication/2018-silva-peerj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Are capacity deficits in local government leaving the Amazon vulnerable to environmental change?</title>
-      <link>https://racorreia.github.io/publication/2017-malhado-lup/</link>
+      <link>/publication/2017-malhado-lup/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2017-malhado-lup/</guid>
+      <guid>/publication/2017-malhado-lup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Understanding non-compliance: Local people’s perceptions of natural resource exploitation inside two national parks in northeast Brazil</title>
-      <link>https://racorreia.github.io/publication/2017-bragagnolo-jnc/</link>
+      <link>/publication/2017-bragagnolo-jnc/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2017-bragagnolo-jnc/</guid>
+      <guid>/publication/2017-bragagnolo-jnc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drier climate shifts leaf morphology in Amazonian trees</title>
-      <link>https://racorreia.github.io/publication/2017-stropp-oecologia/</link>
+      <link>/publication/2017-stropp-oecologia/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2017-stropp-oecologia/</guid>
+      <guid>/publication/2017-stropp-oecologia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protected areas buffer the Brazilian semi‐arid biome from climate change</title>
-      <link>https://racorreia.github.io/publication/2017-acostasalvatierra-biotropica/</link>
+      <link>/publication/2017-acostasalvatierra-biotropica/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2017-acostasalvatierra-biotropica/</guid>
+      <guid>/publication/2017-acostasalvatierra-biotropica/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protected area asset stewardship</title>
-      <link>https://racorreia.github.io/publication/2017-jepson-bc/</link>
+      <link>/publication/2017-jepson-bc/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2017-jepson-bc/</guid>
+      <guid>/publication/2017-jepson-bc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internet scientific name frequency as an indicator of cultural salience of biodiversity</title>
-      <link>https://racorreia.github.io/publication/2017-correia-ei/</link>
+      <link>/publication/2017-correia-ei/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2017-correia-ei/</guid>
+      <guid>/publication/2017-correia-ei/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Bibliometric Analysis of High Impact Research in the Middle East Using Champion Works</title>
-      <link>https://racorreia.github.io/publication/2017-akyuz-iilr/</link>
+      <link>/publication/2017-akyuz-iilr/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2017-akyuz-iilr/</guid>
+      <guid>/publication/2017-akyuz-iilr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring what matters – Identifying indicators of success for Brazilian marine protected areas</title>
-      <link>https://racorreia.github.io/publication/2016-oliveirajunior-mp/</link>
+      <link>/publication/2016-oliveirajunior-mp/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2016-oliveirajunior-mp/</guid>
+      <guid>/publication/2016-oliveirajunior-mp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conservation Culturomics</title>
-      <link>https://racorreia.github.io/publication/2016-ladle-fee/</link>
+      <link>/publication/2016-ladle-fee/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2016-ladle-fee/</guid>
+      <guid>/publication/2016-ladle-fee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Post‐release monitoring of Antillean manatees: an assessment of the Brazilian rehabilitation and release programme</title>
-      <link>https://racorreia.github.io/publication/2016-normande-ac/</link>
+      <link>/publication/2016-normande-ac/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2016-normande-ac/</guid>
+      <guid>/publication/2016-normande-ac/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Are white storks addicted to junk food? Impacts of landfill use on the movement and behaviour of resident white storks (Ciconia ciconia) from a partially migratory population</title>
-      <link>https://racorreia.github.io/publication/2016-gilbert-me/</link>
+      <link>/publication/2016-gilbert-me/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2016-gilbert-me/</guid>
+      <guid>/publication/2016-gilbert-me/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ecological outcomes of Atlantic Forest restoration initiatives by sugar cane producers</title>
-      <link>https://racorreia.github.io/publication/2016-costa-lup/</link>
+      <link>/publication/2016-costa-lup/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2016-costa-lup/</guid>
+      <guid>/publication/2016-costa-lup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The scientific value of Amazonian protected areas</title>
-      <link>https://racorreia.github.io/publication/2016-correia-bc/</link>
+      <link>/publication/2016-correia-bc/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2016-correia-bc/</guid>
+      <guid>/publication/2016-correia-bc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cultural viability of reintroducing the ecologically extinct Alagoas Curassow (Pauxi mitu Linnaeus, 1766) to Northeast Brazil</title>
-      <link>https://racorreia.github.io/publication/2016-gama-jnc/</link>
+      <link>/publication/2016-gama-jnc/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2016-gama-jnc/</guid>
+      <guid>/publication/2016-gama-jnc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Familiarity breeds content: assessing bird species popularity with culturomics</title>
-      <link>https://racorreia.github.io/publication/2016-correia-peerj/</link>
+      <link>/publication/2016-correia-peerj/</link>
       <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2016-correia-peerj/</guid>
+      <guid>/publication/2016-correia-peerj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topography and aridity influence oak woodland bird assemblages in southern Europe</title>
-      <link>https://racorreia.github.io/publication/2015-correia-fem/</link>
+      <link>/publication/2015-correia-fem/</link>
       <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2015-correia-fem/</guid>
+      <guid>/publication/2015-correia-fem/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Research trends in biogeography</title>
-      <link>https://racorreia.github.io/publication/2015-ladle-jb/</link>
+      <title>An example journal article</title>
+      <link>/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2015-ladle-jb/</guid>
+      <guid>/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research trends in biogeography</title>
+      <link>/publication/2015-ladle-jb/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-ladle-jb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geographic trends and information deficits in Amazonian conservation research</title>
-      <link>https://racorreia.github.io/publication/2015-santos-bc/</link>
+      <link>/publication/2015-santos-bc/</link>
       <pubDate>Wed, 19 Aug 2015 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2015-santos-bc/</guid>
+      <guid>/publication/2015-santos-bc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Role of the Mediterranean Sea in differentiating European and North African woodland bird assemblages</title>
-      <link>https://racorreia.github.io/publication/2015-correia-ce/</link>
+      <link>/publication/2015-correia-ce/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2015-correia-ce/</guid>
+      <guid>/publication/2015-correia-ce/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A spatially explicit approach to assess the collision risk between birds and overhead power lines: A case study with the little bustard</title>
-      <link>https://racorreia.github.io/publication/2014-silva-bc/</link>
+      <link>/publication/2014-silva-bc/</link>
       <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2014-silva-bc/</guid>
+      <guid>/publication/2014-silva-bc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Does canopy pruning affect foliage-gleaning birds in managed cork oak woodlands?</title>
-      <link>https://racorreia.github.io/publication/2013-leal-as/</link>
+      <link>/publication/2013-leal-as/</link>
       <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2013-leal-as/</guid>
+      <guid>/publication/2013-leal-as/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distribution and population trends of the European Roller in pseudo-steppe areas of Portugal: results from a census in sixteen SPAs and IBAs</title>
-      <link>https://racorreia.github.io/publication/2011-catry-airo/</link>
+      <link>/publication/2011-catry-airo/</link>
       <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2011-catry-airo/</guid>
+      <guid>/publication/2011-catry-airo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Impact of cork extraction on birds: Relevance for conservation of Mediterranean biodiversity</title>
-      <link>https://racorreia.github.io/publication/2011-leal-bc/</link>
+      <link>/publication/2011-leal-bc/</link>
       <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2011-leal-bc/</guid>
+      <guid>/publication/2011-leal-bc/</guid>
       <description></description>
     </item>
     

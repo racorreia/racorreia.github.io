@@ -20,7 +20,7 @@
   
   
 
-  <meta name="author" content="Ricardo Correia">
+  <meta name="author" content="Ricardo A. Correia">
 
   
   
@@ -209,6 +209,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172931765-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-172931765-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -216,7 +254,7 @@
   
 
   
-  <link rel="alternate" href="/category/demo/index.xml" type="application/rss+xml" title="Ricardo Correia">
+  <link rel="alternate" href="/category/demo/index.xml" type="application/rss+xml" title="Ricardo A. Correia">
   
 
   <link rel="manifest" href="/index.webmanifest">
@@ -241,9 +279,9 @@
   <meta property="twitter:site" content="@rahcorreia85">
   <meta property="twitter:creator" content="@rahcorreia85">
   
-  <meta property="og:site_name" content="Ricardo Correia">
+  <meta property="og:site_name" content="Ricardo A. Correia">
   <meta property="og:url" content="/category/demo/">
-  <meta property="og:title" content="Demo | Ricardo Correia">
+  <meta property="og:title" content="Demo | Ricardo A. Correia">
   <meta property="og:description" content="Post-doctoral researcher in Conservation Geography"><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
@@ -264,7 +302,7 @@
 
 
 
-  <title>Demo | Ricardo Correia</title>
+  <title>Demo | Ricardo A. Correia</title>
 
 </head>
 <body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
@@ -316,7 +354,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Ricardo Correia</a>
+      <a class="navbar-brand" href="/">Ricardo A. Correia</a>
     </div>
     
 
@@ -329,7 +367,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Ricardo Correia</a>
+      <a class="navbar-brand" href="/">Ricardo A. Correia</a>
     </div>
     
 

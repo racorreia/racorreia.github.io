@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marcello D&#39;Amico | Ricardo A. Correia</title>
-    <link>https://racorreia.github.io/author/marcello-damico/</link>
-      <atom:link href="https://racorreia.github.io/author/marcello-damico/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/marcello-damico/</link>
+      <atom:link href="/author/marcello-damico/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcello D&#39;Amico</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Marcello D&#39;Amico</title>
-      <link>https://racorreia.github.io/author/marcello-damico/</link>
+      <link>/author/marcello-damico/</link>
     </image>
     
     <item>
       <title>EU protected area network did not prevent a country wide population decline in a threatened grassland bird</title>
-      <link>https://racorreia.github.io/publication/2018-silva-peerj/</link>
+      <link>/publication/2018-silva-peerj/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/publication/2018-silva-peerj/</guid>
+      <guid>/publication/2018-silva-peerj/</guid>
       <description></description>
     </item>
     
