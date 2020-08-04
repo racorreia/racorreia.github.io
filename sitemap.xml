@@ -18,51 +18,6 @@
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/authors/</loc>
-    <lastmod>2020-08-04T14:12:03+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/tag/blog/</loc>
-    <lastmod>2020-08-04T14:12:03+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/categories/</loc>
-    <lastmod>2020-08-04T14:12:03+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/category/personal/</loc>
-    <lastmod>2020-08-04T14:12:03+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/tag/programming/</loc>
-    <lastmod>2020-08-04T14:12:03+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/post/first_cran_package/</loc>
-    <lastmod>2020-08-04T14:12:03+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/tag/r/</loc>
-    <lastmod>2020-08-04T14:12:03+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/</loc>
-    <lastmod>2020-08-04T14:12:03+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/tags/</loc>
-    <lastmod>2020-08-04T14:12:03+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://racorreia.github.io/publication-type/2/</loc>
     <lastmod>2020-07-21T12:34:19+03:00</lastmod>
   </url>
@@ -75,6 +30,11 @@
   <url>
     <loc>https://racorreia.github.io/author/arthur-f.-da-silva/</loc>
     <lastmod>2020-07-21T12:34:19+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/authors/</loc>
+    <lastmod>2020-07-26T13:34:07+03:00</lastmod>
   </url>
   
   <url>
@@ -93,12 +53,22 @@
   </url>
   
   <url>
+    <loc>https://racorreia.github.io/</loc>
+    <lastmod>2020-07-26T13:34:07+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://racorreia.github.io/author/richard-j.-ladle/</loc>
     <lastmod>2020-07-21T12:34:19+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://racorreia.github.io/tag/scientometrics/</loc>
+    <lastmod>2020-07-21T12:34:19+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/tags/</loc>
     <lastmod>2020-07-21T12:34:19+03:00</lastmod>
   </url>
   
@@ -113,7 +83,22 @@
   </url>
   
   <url>
+    <loc>https://racorreia.github.io/tag/blog/</loc>
+    <lastmod>2020-07-03T10:44:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/categories/</loc>
+    <lastmod>2020-07-03T10:44:09+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://racorreia.github.io/post/hello_world/</loc>
+    <lastmod>2020-07-03T10:44:09+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/category/personal/</loc>
     <lastmod>2020-07-03T10:44:09+03:00</lastmod>
   </url>
   

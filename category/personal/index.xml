@@ -5,26 +5,12 @@
     <link>https://racorreia.github.io/category/personal/</link>
       <atom:link href="https://racorreia.github.io/category/personal/index.xml" rel="self" type="application/rss+xml" />
     <description>Personal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Personal</title>
       <link>https://racorreia.github.io/category/personal/</link>
     </image>
-    
-    <item>
-      <title>Publishing my first R package on CRAN</title>
-      <link>https://racorreia.github.io/post/first_cran_package/</link>
-      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://racorreia.github.io/post/first_cran_package/</guid>
-      <description>&lt;p&gt;As an R user for the last 10 years or so, I always thought it would be very cool to contribute to the great universe of packages available but I was never sure what I could contribute with&amp;hellip; This was true until recently, when I started developing some code to extract data from a Google API. Going through the list of available R packages, I couldn&amp;rsquo;t find another package doing exactly what I needed so I thought that perhaps I could develop the kind of software I was looking for. A few weeks gone by, I can now count myself among the many contributors of R packages available on CRAN!&lt;/p&gt;
-&lt;h2 id=&#34;gkgraphr&#34;&gt;gkgraphR&lt;/h2&gt;
-&lt;p&gt;The gkgraphR package provides a simple means to interact with the Google Knowledge Graph API. This API allows users to query the Google Knowledge Graph for entities recognized by Google and extract their associated information, including IDs and tags for example. It allows users to carry out keyword-based queries or ID-based queries. This former is useful when users are interested in finding topics recognized by Google that match a given term whereas the latter is perhaps most useful if a list of topic IDs is available but the user requires further details on each topic. The package allows users to tweak all the available APi parameters and return results in several formats, ranging from a standard data.frame to the original JSON API response. If you are interested, you can find more details about the gkgraphR package 
-&lt;a href=&#34;https://cran.r-project.org/package=gkgraphR&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;next-steps&#34;&gt;Next steps&lt;/h2&gt;
-&lt;p&gt;The purpose of this package was to provide a simple but interactive means of access to the Google Knowledge Graph API and I think it achieves this goal throught a simple function. Unless there are upcoming changes to the API, I don&amp;rsquo;t foresse any further work on this package anytime soon. It may be possible to include access to other knowledge graphs in the future, but this is not in my plans in the near future. On the other hand, this experience thought me much about code development and I have a few other ideas that I may consider developing code for to share with the broader R community. Stay tuned! ;)&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Hello world!</title>
