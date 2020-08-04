@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Juliana Stropp | Ricardo A. Correia</title>
-    <link>/author/juliana-stropp/</link>
-      <atom:link href="/author/juliana-stropp/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://racorreia.github.io/author/juliana-stropp/</link>
+      <atom:link href="https://racorreia.github.io/author/juliana-stropp/index.xml" rel="self" type="application/rss+xml" />
     <description>Juliana Stropp</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Juliana Stropp</title>
-      <link>/author/juliana-stropp/</link>
+      <link>https://racorreia.github.io/author/juliana-stropp/</link>
     </image>
     
     <item>
       <title>The ghosts of forests past and future: deforestation and botanical sampling in the Brazilian Amazon</title>
-      <link>/publication/2020-stropp-ecography/</link>
+      <link>https://racorreia.github.io/publication/2020-stropp-ecography/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-stropp-ecography/</guid>
+      <guid>https://racorreia.github.io/publication/2020-stropp-ecography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using ignorance scores to explore biodiversity recording effort for multiple taxa in the Caatinga</title>
-      <link>/publication/2019-correia-ei/</link>
+      <link>https://racorreia.github.io/publication/2019-correia-ei/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-correia-ei/</guid>
+      <guid>https://racorreia.github.io/publication/2019-correia-ei/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drier climate shifts leaf morphology in Amazonian trees</title>
-      <link>/publication/2017-stropp-oecologia/</link>
+      <link>https://racorreia.github.io/publication/2017-stropp-oecologia/</link>
       <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/2017-stropp-oecologia/</guid>
+      <guid>https://racorreia.github.io/publication/2017-stropp-oecologia/</guid>
       <description></description>
     </item>
     

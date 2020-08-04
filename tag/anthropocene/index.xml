@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anthropocene | Ricardo A. Correia</title>
-    <link>/tag/anthropocene/</link>
-      <atom:link href="/tag/anthropocene/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://racorreia.github.io/tag/anthropocene/</link>
+      <atom:link href="https://racorreia.github.io/tag/anthropocene/index.xml" rel="self" type="application/rss+xml" />
     <description>Anthropocene</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Anthropocene</title>
-      <link>/tag/anthropocene/</link>
+      <link>https://racorreia.github.io/tag/anthropocene/</link>
     </image>
     
     <item>
       <title>Pivotal 20th century contributions to the development of the Anthropocene concept - overview and implications</title>
-      <link>/publication/2018-correia-cs/</link>
+      <link>https://racorreia.github.io/publication/2018-correia-cs/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-correia-cs/</guid>
+      <guid>https://racorreia.github.io/publication/2018-correia-cs/</guid>
       <description></description>
     </item>
     

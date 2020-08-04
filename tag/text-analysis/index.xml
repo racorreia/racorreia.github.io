@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text analysis | Ricardo A. Correia</title>
-    <link>/tag/text-analysis/</link>
-      <atom:link href="/tag/text-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://racorreia.github.io/tag/text-analysis/</link>
+      <atom:link href="https://racorreia.github.io/tag/text-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>Text analysis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Text analysis</title>
-      <link>/tag/text-analysis/</link>
+      <link>https://racorreia.github.io/tag/text-analysis/</link>
     </image>
     
     <item>
       <title>Using machine learning to disentangle homonyms in large text corpora</title>
-      <link>/publication/2018-roll-cb/</link>
+      <link>https://racorreia.github.io/publication/2018-roll-cb/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-roll-cb/</guid>
+      <guid>https://racorreia.github.io/publication/2018-roll-cb/</guid>
       <description></description>
     </item>
     

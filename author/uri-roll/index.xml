@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Uri Roll | Ricardo A. Correia</title>
-    <link>/author/uri-roll/</link>
-      <atom:link href="/author/uri-roll/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://racorreia.github.io/author/uri-roll/</link>
+      <atom:link href="https://racorreia.github.io/author/uri-roll/index.xml" rel="self" type="application/rss+xml" />
     <description>Uri Roll</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Ricardo Correia 2020</copyright><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://racorreia.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Uri Roll</title>
-      <link>/author/uri-roll/</link>
+      <link>https://racorreia.github.io/author/uri-roll/</link>
     </image>
     
     <item>
       <title>iEcology: Harnessing Large Online Resources to Generate Ecological Insights</title>
-      <link>/publication/2020-jaric-tree/</link>
+      <link>https://racorreia.github.io/publication/2020-jaric-tree/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-jaric-tree/</guid>
+      <guid>https://racorreia.github.io/publication/2020-jaric-tree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Inferring public interest from search engine data requires caution</title>
-      <link>/publication/2019-correia-fee/</link>
+      <link>https://racorreia.github.io/publication/2019-correia-fee/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-correia-fee/</guid>
+      <guid>https://racorreia.github.io/publication/2019-correia-fee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using machine learning to disentangle homonyms in large text corpora</title>
-      <link>/publication/2018-roll-cb/</link>
+      <link>https://racorreia.github.io/publication/2018-roll-cb/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-roll-cb/</guid>
+      <guid>https://racorreia.github.io/publication/2018-roll-cb/</guid>
       <description></description>
     </item>
     
