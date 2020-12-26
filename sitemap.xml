@@ -18,53 +18,93 @@
   </url>
   
   <url>
+    <loc>https://racorreia.github.io/publication-type/2/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://racorreia.github.io/authors/</loc>
-    <lastmod>2020-08-04T14:28:22+03:00</lastmod>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/tag/blog/</loc>
-    <lastmod>2020-08-04T14:28:22+03:00</lastmod>
+    <loc>https://racorreia.github.io/tag/culturomics/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/categories/</loc>
-    <lastmod>2020-08-04T14:28:22+03:00</lastmod>
+    <loc>https://racorreia.github.io/publication/2020-sbragaglia-icesjms/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/category/personal/</loc>
-    <lastmod>2020-08-04T14:28:22+03:00</lastmod>
+    <loc>https://racorreia.github.io/tag/human-nature-interactions/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/tag/programming/</loc>
-    <lastmod>2020-08-04T14:28:22+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/post/first_cran_package/</loc>
-    <lastmod>2020-08-04T14:28:22+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/tag/r/</loc>
-    <lastmod>2020-08-04T14:28:22+03:00</lastmod>
+    <loc>https://racorreia.github.io/publication_types/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://racorreia.github.io/</loc>
-    <lastmod>2020-08-04T14:28:22+03:00</lastmod>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/robert-arlinghaus/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/salvatore-coco/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://racorreia.github.io/tags/</loc>
-    <lastmod>2020-08-04T14:28:22+03:00</lastmod>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/publication-type/2/</loc>
-    <lastmod>2020-07-21T12:34:19+03:00</lastmod>
+    <loc>https://racorreia.github.io/author/valerio-sbragaglia/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/tag/blog/</loc>
+    <lastmod>2020-08-04T14:41:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/categories/</loc>
+    <lastmod>2020-08-04T14:41:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/category/personal/</loc>
+    <lastmod>2020-08-04T14:41:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/tag/programming/</loc>
+    <lastmod>2020-08-04T14:41:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/post/first_cran_package/</loc>
+    <lastmod>2020-08-04T14:41:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/tag/r/</loc>
+    <lastmod>2020-08-04T14:41:36+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/aileen-mill/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
   </url>
   
   <url>
@@ -73,8 +113,23 @@
   </url>
   
   <url>
+    <loc>https://racorreia.github.io/author/ana-novoa/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/anke-fischer/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://racorreia.github.io/author/arthur-f.-da-silva/</loc>
     <lastmod>2020-07-21T12:34:19+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/bernd-lenzner/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
   </url>
   
   <url>
@@ -83,18 +138,108 @@
   </url>
   
   <url>
+    <loc>https://racorreia.github.io/author/camille-musseau/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/tag/charisma/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/diogo-verissimo/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/franck-courchamp/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/franz-essl/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/gregor-kalinkat/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/tag/invasive-species/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/ivan-jaric/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/jan-pergl/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/jonathan-m.-jeschke/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/katerina-stajerova/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/klara-pyskova/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://racorreia.github.io/author/marcos-v.-c.-vital/</loc>
     <lastmod>2020-07-21T12:34:19+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/publication_types/</loc>
-    <lastmod>2020-07-21T12:34:19+03:00</lastmod>
+    <loc>https://racorreia.github.io/author/menja-von-schmalensee/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/pablo-gonzalez-moreno/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/peter-robertson/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/petr-pysek/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://racorreia.github.io/author/richard-j.-ladle/</loc>
     <lastmod>2020-07-21T12:34:19+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/robert-a.-stefansson/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/ross-t.-shackleton/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/sarah-l.-crowley/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
   </url>
   
   <url>
@@ -110,6 +255,21 @@
   <url>
     <loc>https://racorreia.github.io/publication/2020-silva-jnc/</loc>
     <lastmod>2020-07-21T12:34:19+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/publication/2020-jaric-fee/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/xavier-lambin/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://racorreia.github.io/author/yves-meinard/</loc>
+    <lastmod>2020-12-26T16:04:03+02:00</lastmod>
   </url>
   
   <url>
@@ -163,11 +323,6 @@
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/tag/culturomics/</loc>
-    <lastmod>2020-07-21T12:21:05+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://racorreia.github.io/author/celine-bellard/</loc>
     <lastmod>2020-07-21T12:21:05+03:00</lastmod>
   </url>
@@ -188,27 +343,12 @@
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/author/franck-courchamp/</loc>
-    <lastmod>2020-07-21T12:21:05+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/gregor-kalinkat/</loc>
-    <lastmod>2020-07-21T12:21:05+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://racorreia.github.io/tag/iecology/</loc>
     <lastmod>2020-07-21T12:21:05+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://racorreia.github.io/publication/2020-jaric-tree/</loc>
-    <lastmod>2020-07-21T12:21:05+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/ivan-jaric/</loc>
     <lastmod>2020-07-21T12:21:05+03:00</lastmod>
   </url>
   
@@ -254,11 +394,6 @@
   
   <url>
     <loc>https://racorreia.github.io/author/uri-roll/</loc>
-    <lastmod>2020-07-21T12:21:05+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/yves-meinard/</loc>
     <lastmod>2020-07-21T12:21:05+03:00</lastmod>
   </url>
   
@@ -468,48 +603,13 @@
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/author/aileen-mill/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/ana-novoa/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://racorreia.github.io/author/ana-t.-marques/</loc>
     <lastmod>2020-07-20T22:02:32+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/author/anke-fischer/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/bernd-lenzner/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://racorreia.github.io/tag/birds/</loc>
     <lastmod>2020-07-21T12:21:05+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/camille-musseau/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/tag/charisma/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/diogo-verissimo/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
   </url>
   
   <url>
@@ -523,11 +623,6 @@
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/author/franz-essl/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://racorreia.github.io/tag/gps-tracking/</loc>
     <lastmod>2020-07-20T22:02:32+03:00</lastmod>
   </url>
@@ -538,83 +633,13 @@
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/tag/invasive-species/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/jan-pergl/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/jonathan-m.-jeschke/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://racorreia.github.io/author/joao-p.-silva/</loc>
     <lastmod>2020-07-20T22:02:32+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/author/katerina-stajerova/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/klara-pyskova/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://racorreia.github.io/publication/2020-alonso-ibis/</loc>
     <lastmod>2020-07-20T22:02:32+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/menja-von-schmalensee/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/pablo-gonzalez-moreno/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/peter-robertson/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/petr-pysek/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/robert-a.-stefansson/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/ross-t.-shackleton/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/sarah-l.-crowley/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/publication/2020-jaric-fee/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/xavier-lambin/</loc>
-    <lastmod>2020-07-20T22:26:43+03:00</lastmod>
   </url>
   
   <url>
@@ -660,11 +685,6 @@
   <url>
     <loc>https://racorreia.github.io/author/chiara-bragagnolo/</loc>
     <lastmod>2020-07-20T22:26:43+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/tag/human-nature-interactions/</loc>
-    <lastmod>2020-07-21T11:49:12+03:00</lastmod>
   </url>
   
   <url>
@@ -753,11 +773,6 @@
   </url>
   
   <url>
-    <loc>https://racorreia.github.io/publication/2019-sbragaglia-icesjms/</loc>
-    <lastmod>2020-07-21T11:49:12+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://racorreia.github.io/author/felipe-a.-s.-vieira/</loc>
     <lastmod>2020-07-20T11:33:35+03:00</lastmod>
   </url>
@@ -785,21 +800,6 @@
   <url>
     <loc>https://racorreia.github.io/author/john-mittermeier/</loc>
     <lastmod>2020-07-20T11:33:35+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/robert-arlinghaus/</loc>
-    <lastmod>2020-07-21T11:49:12+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/salvatore-coco/</loc>
-    <lastmod>2020-07-21T11:49:12+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://racorreia.github.io/author/valerio-sbragaglia/</loc>
-    <lastmod>2020-07-21T11:49:12+03:00</lastmod>
   </url>
   
   <url>
