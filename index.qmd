@@ -1,7 +1,7 @@
 ---
-title: "personal_website"
+title: "Ricardo A. Correia"
 ---
 
-This is a Quarto website.
+This is my personal website made with Quarto.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
